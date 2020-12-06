@@ -1,6 +1,6 @@
 {
   "appId": "io.ionic.starter",
-  "appName": "sb_lunch_app",
+  "appName": "sb_lunch_mobile_app",
   "bundledWebRuntime": false,
   "npmClient": "npm",
   "webDir": "build",
